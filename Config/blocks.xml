@@ -1,0 +1,68 @@
+<mdtdBlocks>
+  <remove xpath="/blocks/block[@name='radioHam']"/>
+  <append xpath="/blocks">
+    <block name="radioHam">
+      <!-- CLASS -->
+      <property name="Class" value="Workstation"/>
+      <property class="Workstation">
+        <property name="Modules" value="output"/>
+        <property name="CraftingAreaRecipes" value="radioHam"/>
+      </property>
+      <property name="UnlockedBy" value="radioHamSchematic"/>
+      <!-- UI -->
+      <property name="CreativeMode" value="Player"/>
+      <property name="WorkstationWindow" value="workstation_workbench"/>
+      <property name="DescriptionKey" value="radioHamDesc"/>
+      <property name="DisplayType" value="blockMulti"/>
+      <property name="WorkstationIcon" value="ui_game_symbol_workbench"/>
+      <property name="CraftIcon" value="ui_game_symbol_workbench"/>
+      <property name="CraftActionName" value="lblContextActionCraft"/>
+      <property name="Stacknumber" value="1"/>
+      <!-- VISUAL -->
+      <property name="Material" value="Mmetal"/>
+      <property name="Shape" value="ModelEntity"/>
+      <property name="Model" value="Entities/Electrical/radioHamPrefab"/>
+      <property name="MultiBlockDim" value="1,1,1"/>
+      <property name="ImposterDontBlock" value="true"/>
+      <property name="WaterFlow" value="permitted"/>
+      <!-- PLACEMENT -->
+      <property name="Place" value="TowardsPlacerInverted"/>
+      <property name="OnlySimpleRotations" value="false"/>
+      <property name="IsTerrainDecoration" value="true"/>
+      <property name="StabilitySupport" value="false"/>
+      <!-- VALUE -->
+      <property name="Weight" value="0"/>
+      <property name="EconomicValue" value="50"/>
+      <property name="EconomicBundleSize" value="1"/>
+      <property name="SellableToTrader" value="true"/>
+      <property name="TraderStageTemplate" value="midTier2"/>
+      <!-- INTERACTION -->
+      <property name="Path" value="solid"/>
+      <property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+      <property name="MaxDamage" value="800"/>
+      <property name="HeatMapStrength" value="5"/>
+      <property name="HeatMapTime" value="5000"/>
+      <property name="HeatMapFrequency" value="1000"/>
+      <property name="OpenSound" value="chest_tier5_open"/>
+      <property name="CloseSound" value="chest_tier5_close"/>
+      <property name="TakeDelay" value="5"/>
+      <property class="RepairItems">
+        <property name="resourceForgedIron" value="5"/>
+        <property name="resourceScrapPolymers" value="10"/>
+        <property name="resourceElectricParts" value="5"/>
+        <property name="resourceNail" value="2"/>
+      </property>
+      <drop event="Harvest" name="terrStone" count="0" tool_category="Disassemble"/>
+      <drop event="Harvest" name="resourceScrapPolymers" count="1,4" tag="allHarvest"/>
+      <drop event="Harvest" name="resourceElectricParts" count="2,6" tag="salvageHarvest"/>
+      <drop event="Destroy" count="0"/>
+      <drop event="Fall" name="scrapMetalPile" count="1" prob="0.75" stick_chance="1"/>
+      <property name="SortOrder1" value="B162"/>
+      <property name="SortOrder2" value="0014"/>
+      <property name="Group" value="advBuilding,Building,Science,TCScience"/>
+      <property name="Tags" value="challenge_elec_parts,electricianSkill"/>
+      <property name="FilterTags" value="MC_building,MC_playerBlocks,SC_commercial,SC_electrical"/>
+    </block>
+  </append>
+</mdtdBlocks>
+

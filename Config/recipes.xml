@@ -1,0 +1,306 @@
+<mdtdRecipes>
+  <append xpath="/recipes">
+  <!-- RADIO RECEIVER -->
+    <recipe name="radioHam" count="1" craft_area="workbench" craft_time="90" tags="learnable,workbenchCrafting">
+      <ingredient name="resourceForgedIron" count="50"/>
+      <ingredient name="resourceScrapPolymers" count="35"/>
+      <ingredient name="resourceElectricParts" count="25"/>
+      <ingredient name="resourceNail" count="10"/>
+    </recipe>
+
+    <!-- SCHEMATICS -->
+
+    <!-- TIER 1 -->
+    <recipe name="modGunMuzzleBrakeSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modGunMuzzleBrake" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modGunLaserSightSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modGunLaserSight" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modGunFlashlightSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modGunFlashlight" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modGunScopeSmallSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modGunScopeSmall" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modGunTriggerGroupBurst3Schematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modGunTriggerGroupBurst3" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modGunForegripSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modGunForegrip" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modGunChokeSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modGunChoke" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modShotgunSawedOffBarrelSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modShotgunSawedOffBarrel" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modGunBowArrowRestSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modGunBowArrowRest" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modGunMeleeTheHunterSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modGunMeleeTheHunter" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modMeleeTemperedBladeSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modMeleeTemperedBlade" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modMeleeWeightedHeadSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modMeleeWeightedHead" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modMeleeStructuralBraceSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modMeleeStructuralBrace" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modMeleeClubBarbedWireSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modMeleeClubBarbedWire" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modMeleeClubMetalChainSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modMeleeClubMetalChain" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modMeleeClubBurningShaftSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modMeleeClubBurningShaft" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modArmorCoolingMeshSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modArmorCoolingMesh" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modArmorImprovedFittingsSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modArmorImprovedFittings" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modArmorStoragePocketSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modArmorStoragePocket" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modArmorDoubleStoragePocketSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modArmorDoubleStoragePocket" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modArmorHelmetLightSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modArmorHelmetLight" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="modVehicleReserveFuelTankSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="modVehicleReserveFuelTank" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+
+    <!-- TIER 2 -->
+    <recipe name="modGunBarrelExtenderSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modGunBarrelExtender" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modGunScopeMediumSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modGunScopeMedium" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modGunReflexSightSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modGunReflexSight" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modGunTriggerGroupAutomaticSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modGunTriggerGroupAutomatic" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modGunRetractingStockSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modGunRetractingStock" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modGunDuckbillSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modGunDuckbill" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modGunMagazineExtenderSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modGunMagazineExtender" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modGunBowPolymerStringSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modGunBowPolymerString" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modMeleeSerratedBladeSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modMeleeSerratedBlade" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modMeleeErgonomicGripSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modMeleeErgonomicGrip" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modMeleeClubMetalSpikesSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modMeleeClubMetalSpikes" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modMeleeBunkerBusterSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modMeleeBunkerBuster" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modMeleeIronBreakerSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modMeleeIronBreaker" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modMeleeWoodSplitterSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modMeleeWoodSplitter" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modArmorInsulatedLinerSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modArmorInsulatedLiner" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modArmorCustomizedFittingsSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modArmorCustomizedFittings" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modArmorPlatingBasicSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modArmorPlatingBasic" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modArmorTripleStoragePocketSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modArmorTripleStoragePocket" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modArmorMuffledConnectorsSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modArmorMuffledConnectors" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modArmorImpactBracingSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modArmorImpactBracing" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modArmorBandolierSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modArmorBandolier" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modFuelTankSmallSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modFuelTankSmall" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modRoboticDroneHeadlampModSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modRoboticDroneHeadlampMod" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modVehicleOffRoadHeadlightsSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modVehicleOffRoadHeadlights" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modVehicleExpandedSeatSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modVehicleExpandedSeat" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="modVehicleArmorSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="modVehicleArmor" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+
+    <!-- TIER 3 -->
+    <recipe name="modGunSoundSuppressorSilencerSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modGunSoundSuppressorSilencer" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modGunScopeLargeSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modGunScopeLarge" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modGunTriggerGroupSemiSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modGunTriggerGroupSemi" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modGunBipodSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modGunBipod" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modGunCrippleEmSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modGunCrippleEm" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modGunMeleeRadRemoverSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modGunMeleeRadRemover" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modMeleeFortifyingGripSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modMeleeFortifyingGrip" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modMeleeGraveDiggerSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modMeleeGraveDigger" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modArmorPlatingReinforcedSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modArmorPlatingReinforced" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modArmorQuadStoragePocketSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modArmorQuadStoragePocket" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modArmorAdvancedMuffledConnectorsSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modArmorAdvancedMuffledConnectors" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modArmorWaterPurifierSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modArmorWaterPurifier" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modFuelTankLargeSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modFuelTankLarge" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modRoboticDroneCargoModSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modRoboticDroneCargoMod" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modRoboticDroneMedicModSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modRoboticDroneMedicMod" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modRoboticDroneArmorPlatingModSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modRoboticDroneArmorPlatingMod" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modRoboticDroneMoraleBoosterModSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modRoboticDroneMoraleBoosterMod" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <!--
+    <recipe name="modRoboticDroneWeaponModSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modRoboticDroneWeaponMod" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    -->
+    <recipe name="modVehicleFuelSaverSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modVehicleFuelSaver" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modVehicleSuperChargerSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modVehicleSuperCharger" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="modVehiclePlowSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="modVehiclePlow" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="foodCanShamSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="foodCanSham" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="plantedGraceCorn1Schematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="plantedGraceCorn1" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+  </append>
+</mdtdRecipes>
+

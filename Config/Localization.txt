@@ -1,6 +1,6 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,spanish,brazilian
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
 
-radioHam,block,Workstation,,,Radio Researcher,,Radio de Pesquisa,Rádio de Pesquisa
-radioHamDesc,block,Workstation,,,Joel will teach you how to craft, but it will cost time... and also money.,,Joel te enseñará a hacer manualidades, pero te costará tiempo... y también dinero.,Joel lhe ensinará como criar, mas isso custará tempo... e também dinheiro.
-radioHamSchematic,block,Workstation,,,Radio Researcher Schematic,,Proyecto de Radio de Pesquisa,Projeto de Rádio de Pesquisa
+radioHam,block,Workstation,,,Radio Researcher,,,Radio de Pesquisa,,,,,,Rádio de Pesquisa,,,,
+radioHamDesc,block,Workstation,,,"Joel will teach you how to craft, but it will cost time... and also money.",,,"Joel te enseñará a hacer manualidades, pero te costará tiempo... y también dinero.",,,,,,"Joel lhe ensinará como criar, mas isso custará tempo... e também dinheiro.",,,,
+radioHamSchematic,block,Workstation,,,Radio Researcher Schematic,,,Proyecto de Radio de Pesquisa,,,,,,Projeto de Rádio de Pesquisa,,,,
 

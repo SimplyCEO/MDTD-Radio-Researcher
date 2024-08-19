@@ -27,10 +27,16 @@ Gallery
 -------
 
 <p align="left">
-  <img src="./.media/screenshot_radio_researcher.jpg" width="128" title="Radio Researcher">
-  <img src="./.media/screenshot_double_pocket_mod.jpg" width="128" title="Double Pocket Mod">
-  <img src="./.media/screenshot_triple_pocket_mod.jpg" width="128" title="Triple Pocket Mod">
-  <img src="./.media/screenshot_quadruple_pocket_mod.jpg" width="128" title="Quadruple Pocket Mod">
+  <img src="./.media/screenshot_radio_researcher.jpg" width="192" title="Radio Researcher">
+  <img src="./.media/screenshot_metal_chain_mod.jpg" width="192" title="Metal Chain Mod">
+  <img src="./.media/screenshot_structural_brace_mod.jpg" width="192" title="Structural Brace Mod">
+  <img src="./.media/screenshot_armor_quad_pocket_mod.jpg" width="192" title="Armor Quad Pocket Mod">
+  <img src="./.media/screenshot_water_purifier_mod.jpg" width="192" title="Water Purifier Mod">
+  <img src="./.media/screenshot_shamway_secret.jpg" width="192" title="Shamway Secret Recipe">
+  <img src="./.media/screenshot_goldenrod_seed.jpg" width="192" title="Goldenrod Seed Recipe">
+  <img src="./.media/screenshot_corn_seed.jpg" width="192" title="Corn Seed Recipe">
+  <img src="./.media/screenshot_potato_seed.jpg" width="192" title="Potato Seed Recipe">
+  <img src="./.media/screenshot_super_corn_seed.jpg" width="192" title="Super Corn Seed Recipe">
 </p>
 
 Repositories

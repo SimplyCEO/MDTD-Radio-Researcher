@@ -1,5 +1,5 @@
-Radio Researcher
-================
+<img src="./.media/logo.jpg" width="28" title="Radio Researcher"> Radio Researcher
+==================================================================================
 
 Use your own items in order to receive a schematic of it with the help of Joel's.
 

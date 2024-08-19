@@ -1,6 +1,7 @@
 <mdtdItems>
   <!-- CUSTOM SCHEMATICS -->
   <append xpath="/items">
+    <!-- RADIO RESEARCHER -->
     <item name="radioHamSchematic">
       <property name="Extends" value="schematicNoQualityMaster"/>
       <property name="CreativeMode" value="Player"/>
@@ -12,6 +13,7 @@
       </effect_group>
     </item>
 
+    <!-- METAL CHAIN -->
     <item name="modMeleeClubMetalChainSchematic">
       <property name="Extends" value="schematicNoQualityMaster"/>
       <property name="CreativeMode" value="Player"/>
@@ -23,7 +25,7 @@
       </effect_group>
     </item>
 
-    <!--
+    <!-- (NOT YET IMPLEMENTED BY TFP)
     <item name="modRoboticDroneWeaponModSchematic">
       <property name="Extends" value="schematicNoQualityMaster"/>
       <property name="CreativeMode" value="Player"/>

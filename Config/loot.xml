@@ -1,7 +1,9 @@
 <mdtdLoot>
+  <!-- RARE MODS AND GENERAL LOOT -->
   <append xpath="/lootcontainers/lootgroup[@name='schematicsModsAndGeneralT2']">
     <item name="radioHamSchematic"/>
   </append>
+  <!-- RARE WORKBENCH LOOT -->
   <append xpath="/lootcontainers/lootgroup[@name='groupWorkbenchLoot04']">
     <item name="radioHamSchematic"/>
   </append>

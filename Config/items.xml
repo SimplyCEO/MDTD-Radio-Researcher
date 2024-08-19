@@ -1,6 +1,7 @@
 <mdtdItems>
   <!-- CUSTOM SCHEMATICS -->
   <append xpath="/items">
+    <!-- BLOCKS -->
     <!-- RADIO RESEARCHER -->
     <item name="radioHamSchematic">
       <property name="Extends" value="schematicNoQualityMaster"/>
@@ -13,6 +14,7 @@
       </effect_group>
     </item>
 
+    <!-- MODIFIERS -->
     <!-- METAL CHAIN -->
     <item name="modMeleeClubMetalChainSchematic">
       <property name="Extends" value="schematicNoQualityMaster"/>
@@ -37,6 +39,140 @@
       </effect_group>
     </item>
     -->
+
+    <!-- PLANTS -->
+    <!-- PUMPKIN SEEDS -->
+    <item name="plantedPumpkin1Schematic">
+      <property name="Extends" value="schematicNoQualityMaster"/>
+      <property name="CreativeMode" value="Player"/>
+      <property name="CustomIcon" value="plantedPumpkin1"/>
+      <property name="Unlocks" value="plantedPumpkin1"/>
+      <effect_group tiered="false">
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="plantedPumpkin1" operation="set" value="1"/>
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
+      </effect_group>
+    </item>
+    <!-- COTTON SEEDS -->
+    <item name="plantedCotton1Schematic">
+      <property name="Extends" value="schematicNoQualityMaster"/>
+      <property name="CreativeMode" value="Player"/>
+      <property name="CustomIcon" value="plantedCotton1"/>
+      <property name="Unlocks" value="plantedCotton1"/>
+      <effect_group tiered="false">
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="plantedCotton1" operation="set" value="1"/>
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
+      </effect_group>
+    </item>
+    <!-- GOLDENROD SEEDS -->
+    <item name="plantedGoldenrod1Schematic">
+      <property name="Extends" value="schematicNoQualityMaster"/>
+      <property name="CreativeMode" value="Player"/>
+      <property name="CustomIcon" value="plantedGoldenrod1"/>
+      <property name="Unlocks" value="plantedGoldenrod1"/>
+      <effect_group tiered="false">
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="plantedGoldenrod1" operation="set" value="1"/>
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
+      </effect_group>
+    </item>
+    <!-- CHRYSANTHEMUM SEEDS -->
+    <item name="plantedChrysanthemum1Schematic">
+      <property name="Extends" value="schematicNoQualityMaster"/>
+      <property name="CreativeMode" value="Player"/>
+      <property name="CustomIcon" value="plantedChrysanthemum1"/>
+      <property name="Unlocks" value="plantedChrysanthemum1"/>
+      <effect_group tiered="false">
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="plantedChrysanthemum1" operation="set" value="1"/>
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
+      </effect_group>
+    </item>
+    <!-- MUSHROOM SPORES -->
+    <item name="plantedMushroom1Schematic">
+      <property name="Extends" value="schematicNoQualityMaster"/>
+      <property name="CreativeMode" value="Player"/>
+      <property name="CustomIcon" value="plantedMushroom1"/>
+      <property name="Unlocks" value="plantedMushroom1"/>
+      <effect_group tiered="false">
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="plantedMushroom1" operation="set" value="1"/>
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
+      </effect_group>
+    </item>
+    <!-- YUCCA SEEDS -->
+    <item name="plantedYucca1Schematic">
+      <property name="Extends" value="schematicNoQualityMaster"/>
+      <property name="CreativeMode" value="Player"/>
+      <property name="CustomIcon" value="plantedYucca1"/>
+      <property name="Unlocks" value="plantedYucca1"/>
+      <effect_group tiered="false">
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="plantedYucca1" operation="set" value="1"/>
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
+      </effect_group>
+    </item>
+    <!-- COFFEE SEEDS -->
+    <item name="plantedCoffee1Schematic">
+      <property name="Extends" value="schematicNoQualityMaster"/>
+      <property name="CreativeMode" value="Player"/>
+      <property name="CustomIcon" value="plantedCoffee1"/>
+      <property name="Unlocks" value="plantedCoffee1"/>
+      <effect_group tiered="false">
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="plantedCoffee1" operation="set" value="1"/>
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
+      </effect_group>
+    </item>
+    <!-- BLUEBERRY SEEDS -->
+    <item name="plantedBlueberry1Schematic">
+      <property name="Extends" value="schematicNoQualityMaster"/>
+      <property name="CreativeMode" value="Player"/>
+      <property name="CustomIcon" value="plantedBlueberry1"/>
+      <property name="Unlocks" value="plantedBlueberry1"/>
+      <effect_group tiered="false">
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="plantedBlueberry1" operation="set" value="1"/>
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
+      </effect_group>
+    </item>
+    <!-- CORN SEEDS -->
+    <item name="plantedCorn1Schematic">
+      <property name="Extends" value="schematicNoQualityMaster"/>
+      <property name="CreativeMode" value="Player"/>
+      <property name="CustomIcon" value="plantedCorn1"/>
+      <property name="Unlocks" value="plantedCorn1"/>
+      <effect_group tiered="false">
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="plantedCorn1" operation="set" value="1"/>
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
+      </effect_group>
+    </item>
+    <!-- ALOE VERA SEEDS -->
+    <item name="plantedAloe1Schematic">
+      <property name="Extends" value="schematicNoQualityMaster"/>
+      <property name="CreativeMode" value="Player"/>
+      <property name="CustomIcon" value="plantedAloe1"/>
+      <property name="Unlocks" value="plantedAloe1"/>
+      <effect_group tiered="false">
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="plantedAloe1" operation="set" value="1"/>
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
+      </effect_group>
+    </item>
+    <!-- POTATO SEEDS -->
+    <item name="plantedPotato1Schematic">
+      <property name="Extends" value="schematicNoQualityMaster"/>
+      <property name="CreativeMode" value="Player"/>
+      <property name="CustomIcon" value="plantedPotato1"/>
+      <property name="Unlocks" value="plantedPotato1"/>
+      <effect_group tiered="false">
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="plantedPotato1" operation="set" value="1"/>
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
+      </effect_group>
+    </item>
+    <!-- HOP SEEDS -->
+    <item name="plantedHop1Schematic">
+      <property name="Extends" value="schematicNoQualityMaster"/>
+      <property name="CreativeMode" value="Player"/>
+      <property name="CustomIcon" value="plantedHop1"/>
+      <property name="Unlocks" value="plantedHop1"/>
+      <effect_group tiered="false">
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="ModifyCVar" cvar="plantedHop1" operation="set" value="1"/>
+        <triggered_effect trigger="onSelfPrimaryActionEnd" action="GiveExp" exp="50"/>
+      </effect_group>
+    </item>
   </append>
 
   <!-- ATTRIBUTE SCHEMATIC TO BLOCK'S INVENTORY -->

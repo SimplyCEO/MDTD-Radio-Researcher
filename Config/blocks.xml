@@ -64,5 +64,10 @@
       <property name="FilterTags" value="MC_building,MC_playerBlocks,SC_commercial,SC_electrical"/>
     </block>
   </append>
+
+  <!-- APPEND 'learnable' TAG TO SEEDS -->
+  <append xpath="/blocks/block[starts-with(@name, 'planted') and contains(@name, '1')]">
+    <property name="Tags" value="learnable,seedSkill"/>
+  </append>
 </mdtdBlocks>
 

@@ -1,19 +1,15 @@
 <mdtdRecipes>
+  <!-- SCHEMATICS -->
   <append xpath="/recipes">
-    <!-- RADIO RESEARCHER -->
-    <recipe name="radioHam" count="1" craft_area="workbench" craft_time="90" tags="learnable,workbenchCrafting">
-      <ingredient name="resourceForgedIron" count="50"/>
-      <ingredient name="resourceScrapPolymers" count="35"/>
-      <ingredient name="resourceElectricParts" count="25"/>
-      <ingredient name="resourceNail" count="10"/>
+    <!-- TIER L -->
+    <!-- PLANTS -->
+    <recipe name="plantedPumpkin1Schematic" count="1" craft_area="radioHam" craft_time="600" tags="radioHamCrafting">
+      <ingredient name="plantedPumpkin1" count="1"/>
+      <ingredient name="casinoCoin" count="2500"/>
     </recipe>
 
-    <!-- SCHEMATICS -->
-
-    <!--
-      MODIFIERS
-      TIER 1
-    -->
+    <!-- TIER 1 -->
+    <!-- MODIFIERS -->
     <recipe name="modGunMuzzleBrakeSchematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
       <ingredient name="modGunMuzzleBrake" count="1"/>
       <ingredient name="casinoCoin" count="5000"/>
@@ -102,11 +98,22 @@
       <ingredient name="modVehicleReserveFuelTank" count="1"/>
       <ingredient name="casinoCoin" count="5000"/>
     </recipe>
+    <!-- PLANTS -->
+    <recipe name="plantedCotton1Schematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="plantedCotton1" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="plantedGoldenrod1Schematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="plantedGoldenrod1" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
+    <recipe name="plantedChrysanthemum1Schematic" count="1" craft_area="radioHam" craft_time="1800" tags="radioHamCrafting">
+      <ingredient name="plantedChrysanthemum1" count="1"/>
+      <ingredient name="casinoCoin" count="5000"/>
+    </recipe>
 
-    <!--
-      MODIFIERS
-      TIER 2
-    -->
+    <!-- TIER 2 -->
+    <!-- MODIFIERS -->
     <recipe name="modGunBarrelExtenderSchematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
       <ingredient name="modGunBarrelExtender" count="1"/>
       <ingredient name="casinoCoin" count="10000"/>
@@ -211,11 +218,42 @@
       <ingredient name="modVehicleArmor" count="1"/>
       <ingredient name="casinoCoin" count="10000"/>
     </recipe>
+    <!-- PLANTS -->
+    <recipe name="plantedMushroom1Schematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="plantedMushroom1" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="plantedYucca1Schematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="plantedYucca1" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="plantedCoffee1Schematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="plantedCoffee1" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="plantedBlueberry1Schematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="plantedBlueberry1" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
+    <recipe name="plantedCorn1Schematic" count="1" craft_area="radioHam" craft_time="3600" tags="radioHamCrafting">
+      <ingredient name="plantedCorn1" count="1"/>
+      <ingredient name="casinoCoin" count="10000"/>
+    </recipe>
 
-    <!--
-      MODIFIERS
-      TIER 3
-    -->
+    <!-- TIER 3 -->
+    <!-- BLOCKS -->
+    <recipe name="radioHam" count="1" craft_area="workbench" craft_time="90" tags="learnable,workbenchCrafting">
+      <ingredient name="resourceForgedIron" count="50"/>
+      <ingredient name="resourceScrapPolymers" count="35"/>
+      <ingredient name="resourceElectricParts" count="25"/>
+      <ingredient name="resourceNail" count="10"/>
+    </recipe>
+    <!-- FOODS -->
+    <recipe name="foodCanShamSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="foodCanSham" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <!-- MODIFIERS -->
     <recipe name="modGunSoundSuppressorSilencerSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
       <ingredient name="modGunSoundSuppressorSilencer" count="1"/>
       <ingredient name="casinoCoin" count="15000"/>
@@ -302,22 +340,21 @@
       <ingredient name="modVehiclePlow" count="1"/>
       <ingredient name="casinoCoin" count="15000"/>
     </recipe>
-
-    <!--
-      FOODS
-      TIER 3
-    -->
-    <recipe name="foodCanShamSchematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
-      <ingredient name="foodCanSham" count="1"/>
+    <!-- PLANTS -->
+    <recipe name="plantedAloe1Schematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="plantedAloe1" count="1"/>
       <ingredient name="casinoCoin" count="15000"/>
     </recipe>
-
-    <!--
-      PLANTS
-      TIER 3
-    -->
+    <recipe name="plantedPotato1Schematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="plantedPotato1" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
     <recipe name="plantedGraceCorn1Schematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
       <ingredient name="plantedGraceCorn1" count="1"/>
+      <ingredient name="casinoCoin" count="15000"/>
+    </recipe>
+    <recipe name="plantedHop1Schematic" count="1" craft_area="radioHam" craft_time="5400" tags="radioHamCrafting">
+      <ingredient name="plantedHop1" count="1"/>
       <ingredient name="casinoCoin" count="15000"/>
     </recipe>
   </append>

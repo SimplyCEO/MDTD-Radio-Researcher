@@ -27,12 +27,24 @@ Gallery
 -------
 
 <p align="left">
-  <img src="./.media/screenshots/lowres/armor_double_pocket_mod.jpg" srcset="./.media/screenshots/armor_double_pocket_mod.jpg" width="192" title="Armor Double Pocket Mod">
-  <img src="./.media/screenshots/lowres/metal_chain_mod.jpg" srcset="./.media/screenshots/metal_chain_mod.jpg" width="192" title="Metal Chain Mod">
-  <img src="./.media/screenshots/lowres/can_of_sham.jpg" srcset="./.media/screenshots/can_of_sham.jpg" width="192" title="Can of Sham">
-  <img src="./.media/screenshots/lowres/cripple_em_mod.jpg" srcset="./.media/screenshots/cripple_em_mod.jpg" width="192" title="Cripple 'Em Mod">
-  <img src="./.media/screenshots/lowres/goldenrod_seeds.jpg" srcset="./.media/screenshots/goldenrod_seeds.jpg" width="192" title="Goldenrod Seeds">
-  <img src="./.media/screenshots/lowres/super_corn_seeds.jpg" srcset="./.media/screenshots/super_corn_seeds.jpg" width="192" title="Super Corn Seeds">
+  <a href="./.media/screenshots/armor_double_pocket_mod.jpg">
+    <img src="./.media/screenshots/lowres/armor_double_pocket_mod.jpg" width="192" title="Armor Double Pocket Mod">
+  </a>
+  <a href="./.media/screenshots/metal_chain_mod.jpg">
+    <img src="./.media/screenshots/lowres/metal_chain_mod.jpg" width="192" title="Metal Chain Mod">
+  </a>
+  <a href="./.media/screenshots/can_of_sham.jpg">
+    <img src="./.media/screenshots/lowres/can_of_sham.jpg" width="192" title="Can of Sham">
+  </a>
+  <a href="./.media/screenshots/cripple_em_mod.jpg">
+    <img src="./.media/screenshots/lowres/cripple_em_mod.jpg" width="192" title="Cripple 'Em Mod">
+  </a>
+  <a href="./.media/screenshots/goldenrod_seeds.jpg">
+    <img src="./.media/screenshots/lowres/goldenrod_seeds.jpg" width="192" title="Goldenrod Seeds">
+  </a>
+  <a href="./.media/screenshots/super_corn_seeds.jpg">
+    <img src="./.media/screenshots/lowres/super_corn_seeds.jpg" width="192" title="Super Corn Seeds">
+  </a>
 </p>
 
 Repositories

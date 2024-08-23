@@ -27,16 +27,12 @@ Gallery
 -------
 
 <p align="left">
-  <img src="./.media/screenshot_radio_researcher.jpg" width="192" title="Radio Researcher">
-  <img src="./.media/screenshot_metal_chain_mod.jpg" width="192" title="Metal Chain Mod">
-  <img src="./.media/screenshot_structural_brace_mod.jpg" width="192" title="Structural Brace Mod">
-  <img src="./.media/screenshot_armor_quad_pocket_mod.jpg" width="192" title="Armor Quad Pocket Mod">
-  <img src="./.media/screenshot_water_purifier_mod.jpg" width="192" title="Water Purifier Mod">
-  <img src="./.media/screenshot_shamway_secret.jpg" width="192" title="Shamway Secret Recipe">
-  <img src="./.media/screenshot_goldenrod_seed.jpg" width="192" title="Goldenrod Seed Recipe">
-  <img src="./.media/screenshot_corn_seed.jpg" width="192" title="Corn Seed Recipe">
-  <img src="./.media/screenshot_potato_seed.jpg" width="192" title="Potato Seed Recipe">
-  <img src="./.media/screenshot_super_corn_seed.jpg" width="192" title="Super Corn Seed Recipe">
+  <img src="./.media/screenshots/lowres/armor_double_pocket_mod.jpg" srcset="./.media/screenshots/armor_double_pocket_mod.jpg" width="192" title="Armor Double Pocket Mod">
+  <img src="./.media/screenshots/lowres/metal_chain_mod.jpg" srcset="./.media/screenshots/metal_chain_mod.jpg" width="192" title="Metal Chain Mod">
+  <img src="./.media/screenshots/lowres/can_of_sham.jpg" srcset="./.media/screenshots/can_of_sham.jpg" width="192" title="Can of Sham">
+  <img src="./.media/screenshots/lowres/cripple_em_mod.jpg" srcset="./.media/screenshots/cripple_em_mod.jpg" width="192" title="Cripple 'Em Mod">
+  <img src="./.media/screenshots/lowres/goldenrod_seeds.jpg" srcset="./.media/screenshots/goldenrod_seeds.jpg" width="192" title="Goldenrod Seeds">
+  <img src="./.media/screenshots/lowres/super_corn_seeds.jpg" srcset="./.media/screenshots/super_corn_seeds.jpg" width="192" title="Super Corn Seeds">
 </p>
 
 Repositories

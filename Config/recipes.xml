@@ -17,128 +17,128 @@
     <recipe name="modGunMuzzleBrakeBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modGunMuzzleBrake" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modGunLaserSightBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modGunLaserSight" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modGunFlashlightBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modGunFlashlight" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modGunScopeSmallBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modGunScopeSmall" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modGunTriggerGroupBurst3Bundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modGunTriggerGroupBurst3" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modGunForegripBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modGunForegrip" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modGunChokeBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modGunChoke" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modShotgunSawedOffBarrelBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modShotgunSawedOffBarrel" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modGunBowArrowRestBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modGunBowArrowRest" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modGunMeleeTheHunterBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modGunMeleeTheHunter" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modMeleeTemperedBladeBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modMeleeTemperedBlade" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modMeleeWeightedHeadBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modMeleeWeightedHead" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modMeleeStructuralBraceBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modMeleeStructuralBrace" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modMeleeClubBarbedWireBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modMeleeClubBarbedWire" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modMeleeClubMetalChainBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modMeleeClubMetalChain" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modMeleeClubBurningShaftBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modMeleeClubBurningShaft" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modArmorCoolingMeshBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modArmorCoolingMesh" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modArmorImprovedFittingsBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modArmorImprovedFittings" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modArmorStoragePocketBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modArmorStoragePocket" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modArmorDoubleStoragePocketBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modArmorDoubleStoragePocket" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modArmorHelmetLightBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modArmorHelmetLight" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <recipe name="modVehicleReserveFuelTankBundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
       <ingredient name="modVehicleReserveFuelTank" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="5000"/>
+      <ingredient name="casinoCoin" count="6480"/>
     </recipe>
     <!-- PLANTS -->
     <recipe name="plantedCotton1Bundle" count="1" craft_area="radioHam" craft_time="600" craft_exp_gain="50" tags="radioHamCrafting">
       <ingredient name="plantedCotton1" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="2500"/>
+      <ingredient name="casinoCoin" count="3500"/>
     </recipe>
     <recipe name="plantedGoldenrod1Bundle" count="1" craft_area="radioHam" craft_time="600" craft_exp_gain="50" tags="radioHamCrafting">
       <ingredient name="plantedGoldenrod1" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="2500"/>
+      <ingredient name="casinoCoin" count="3500"/>
     </recipe>
     <recipe name="plantedChrysanthemum1Bundle" count="1" craft_area="radioHam" craft_time="600" craft_exp_gain="50" tags="radioHamCrafting">
       <ingredient name="plantedChrysanthemum1" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="2500"/>
+      <ingredient name="casinoCoin" count="3500"/>
     </recipe>
 
     <!-- TIER 2 -->
@@ -146,132 +146,132 @@
     <recipe name="modGunBarrelExtenderBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modGunBarrelExtender" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modGunScopeMediumBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modGunScopeMedium" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modGunReflexSightBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modGunReflexSight" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modGunTriggerGroupAutomaticBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modGunTriggerGroupAutomatic" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modGunRetractingStockBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modGunRetractingStock" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modGunDuckbillBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modGunDuckbill" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modGunMagazineExtenderBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modGunMagazineExtender" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modGunBowPolymerStringBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modGunBowPolymerString" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modMeleeSerratedBladeBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modMeleeSerratedBlade" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modMeleeErgonomicGripBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modMeleeErgonomicGrip" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modMeleeClubMetalSpikesBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modMeleeClubMetalSpikes" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modMeleeBunkerBusterBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modMeleeBunkerBuster" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modMeleeIronBreakerBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modMeleeIronBreaker" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modMeleeWoodSplitterBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modMeleeWoodSplitter" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modArmorInsulatedLinerBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modArmorInsulatedLiner" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modArmorCustomizedFittingsBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modArmorCustomizedFittings" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modArmorPlatingBasicBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modArmorPlatingBasic" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modArmorTripleStoragePocketBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modArmorTripleStoragePocket" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modArmorMuffledConnectorsBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modArmorMuffledConnectors" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modArmorImpactBracingBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modArmorImpactBracing" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modArmorBandolierBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modArmorBandolier" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modFuelTankSmallBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modFuelTankSmall" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modRoboticDroneHeadlampModBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modRoboticDroneHeadlampMod" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modVehicleOffRoadHeadlightsBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modVehicleOffRoadHeadlights" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modVehicleExpandedSeatBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modVehicleExpandedSeat" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <recipe name="modVehicleArmorBundle" count="1" craft_area="radioHam" craft_time="3600" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modVehicleArmor" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="10000"/>
+      <ingredient name="casinoCoin" count="12960"/>
     </recipe>
     <!-- PLANTS -->
     <recipe name="plantedPumpkin1Bundle" count="1" craft_area="radioHam" craft_time="1800" craft_exp_gain="75" tags="radioHamCrafting">
@@ -316,109 +316,109 @@
     <recipe name="modGunSoundSuppressorSilencerBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modGunSoundSuppressorSilencer" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modGunScopeLargeBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modGunScopeLarge" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modGunTriggerGroupSemiBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modGunTriggerGroupSemi" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modGunBipodBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modGunBipod" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modGunCrippleEmBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modGunCrippleEm" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modGunMeleeRadRemoverBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modGunMeleeRadRemover" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modMeleeFortifyingGripBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modMeleeFortifyingGrip" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modMeleeGraveDiggerBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modMeleeGraveDigger" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modArmorPlatingReinforcedBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modArmorPlatingReinforced" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modArmorQuadStoragePocketBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modArmorQuadStoragePocket" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modArmorAdvancedMuffledConnectorsBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modArmorAdvancedMuffledConnectors" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modArmorWaterPurifierBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modArmorWaterPurifier" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modFuelTankLargeBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modFuelTankLarge" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modRoboticDroneCargoModBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modRoboticDroneCargoMod" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modRoboticDroneMedicModBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modRoboticDroneMedicMod" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modRoboticDroneArmorPlatingModBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modRoboticDroneArmorPlatingMod" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modRoboticDroneMoraleBoosterModBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modRoboticDroneMoraleBoosterMod" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <!-- (NOT YET IMPLEMENTED BY TFP)
     <recipe name="modRoboticDroneWeaponModBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modRoboticDroneWeaponMod" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     -->
     <recipe name="modVehicleFuelSaverBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modVehicleFuelSaver" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modVehicleSuperChargerBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modVehicleSuperCharger" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <recipe name="modVehiclePlowBundle" count="1" craft_area="radioHam" craft_time="5400" craft_exp_gain="175" tags="radioHamCrafting">
       <ingredient name="modVehiclePlow" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="15000"/>
+      <ingredient name="casinoCoin" count="19440"/>
     </recipe>
     <!-- PLANTS -->
     <recipe name="plantedAloe1Bundle" count="1" craft_area="radioHam" craft_time="2400" craft_exp_gain="100" tags="radioHamCrafting">
@@ -434,7 +434,7 @@
     <recipe name="plantedGraceCorn1Bundle" count="1" craft_area="radioHam" craft_time="10800" craft_exp_gain="350" tags="radioHamCrafting">
       <ingredient name="plantedGraceCorn1" count="1"/>
       <ingredient name="resourcePaper" count="10"/>
-      <ingredient name="casinoCoin" count="30000"/>
+      <ingredient name="casinoCoin" count="18000"/>
     </recipe>
     <recipe name="plantedHop1Bundle" count="1" craft_area="radioHam" craft_time="2400" craft_exp_gain="100" tags="radioHamCrafting">
       <ingredient name="plantedHop1" count="1"/>
